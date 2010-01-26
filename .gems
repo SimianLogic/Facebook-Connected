@@ -1,0 +1,6 @@
+haml-edge --version '>= 2.3.0'
+workflow
+facebooker
+compass
+compass-colors
+fancy-buttons
