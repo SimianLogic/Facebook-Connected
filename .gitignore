@@ -1,3 +1,4 @@
+db/schema.rb
 log/*.log
 log/*.pid
 .DS_Store
@@ -5,4 +6,5 @@ tmp/*
 tmp/**/*
 db/*.sqlite3
 config/facebooker.yml
+config/database.yml
 public/.sass-cache
