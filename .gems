@@ -1,8 +1,6 @@
-haml --version '>= 2.2.0'
 haml-edge --version '>= 2.3.0'
 workflow
 facebooker
 compass --version '>= 0.10.0.pre2'
-compass --version '0.8.17'
 compass-colors
 fancy-buttons
