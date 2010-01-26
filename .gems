@@ -1,4 +1,4 @@
-haml --version '>= 2.2.14'
+haml --version '2.2.15'
 haml-edge --version '>= 2.3.0'
 workflow
 facebooker
