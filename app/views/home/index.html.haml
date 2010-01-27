@@ -7,5 +7,6 @@
     %p
       <fb:profile-pic uid="#{current_user.fb_user_id}" facebook-logo="true" size="thumb" ></fb:profile-pic>
       Welcome, #{current_user.name}.
+    = fb_logout_link 'Log Out', root_path
   -else 
     = fb_login_button "window.location = '#{login_path}'"
